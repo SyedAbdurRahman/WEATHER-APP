@@ -32,21 +32,29 @@
 
 ### ⚙️ Getting Started
 
-#### 1️⃣ Clone the Repository
-
+#### 1. Clone the Repository
+```
 git clone [https://github.com/SyedAbdurRahman/Climo.git](https://github.com/SyedAbdurRahman/Climo.git)
 cd Climo
+```
 
-#### 2️⃣ Create `.env` File
+#### 2. Create `.env` File
 
 Create a `.env` file in the root directory and add your OpenWeather API key:
 ```
 VITE\_OPENWEATHER\_API\_KEY=...
 ```
-#### 3️⃣ Install Dependencies
+
+#### 3. Install Dependencies
 ```
 npm install
 ```
+
+#### 4. Run the app
+```
+npm run dev
+```
+
 ---
 
 ### 🐳 Dockerized Deployment
@@ -58,6 +66,7 @@ To build and run the Docker container:
 docker build -t climo .
 docker run -p 5173:5173 --rm climo
 ```
+
 ---
 
 ### 📬 Contact
