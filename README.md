@@ -5,10 +5,15 @@
 # WEATHER-APP
 
 **Company:** CODTECH IT SOLUTIONS
+
 **Name:** Syed Abdur Rahman
+
 **Intern ID:** CT04DM464
+
 **Domain:** React JS Web Development
+
 **Duration:** 4 Weeks
+
 **Mentor:** Neela Santosh
 
 ---
@@ -36,7 +41,7 @@
 
 #### 1. Clone the Repository
 ```
-git clone [https://github.com/SyedAbdurRahman/Climo.git](https://github.com/SyedAbdurRahman/Climo.git)
+git clone https://github.com/SyedAbdurRahman/Climo.git
 cd Climo
 ```
 
