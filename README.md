@@ -27,10 +27,15 @@
 ### 🌟 Features
 
 ✅ **Real-time weather updates**
+
 ✅ **City search and dynamic forecasts**
+
 ✅ **Interactive charts with Recharts**
+
 ✅ **Modern UI with Tailwind CSS and Shadcn**
+
 ✅ **Efficient data fetching with Tanstack Query**
+
 ✅ **Fully dockerized with a Dockerfile for easy deployment**
 
 ---
