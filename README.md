@@ -41,7 +41,7 @@
 
 #### 1. Clone the Repository
 ```
-git clone https://github.com/SyedAbdurRahman/Climo.git
+git clone https://github.com/SyedAbdurRahman/WEATHER-APP.git
 cd Climo
 ```
 
