@@ -32,6 +32,8 @@
 
 ### ⚙️ Getting Started
 
+
+
 #### 1. Clone the Repository
 ```
 git clone [https://github.com/SyedAbdurRahman/Climo.git](https://github.com/SyedAbdurRahman/Climo.git)
@@ -95,4 +97,3 @@ Happy weather tracking with Climo! ☀️🌧️
 
 ---
 
-Let me know if you’d like me to format it further or add extra sections!
