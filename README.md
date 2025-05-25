@@ -44,7 +44,7 @@ cd Climo
 
 Create a `.env` file in the root directory and add your OpenWeather API key:
 ```
-VITE\_OPENWEATHER\_API\_KEY=...
+VITE_OPENWEATHER_API_KEY = ...
 ```
 
 #### 3. Install Dependencies
