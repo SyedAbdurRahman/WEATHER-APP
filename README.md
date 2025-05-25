@@ -1,8 +1,8 @@
-Got it! Here’s the README in **plain text** (no code blocks) so you can copy and paste directly:
+
 
 ---
 
-# 🌦️ Climo - Modern Weather App
+# WEATHER-APP
 
 **Company:** CODTECH IT SOLUTIONS
 **Name:** Syed Abdur Rahman
